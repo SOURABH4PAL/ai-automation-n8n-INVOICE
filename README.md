@@ -5,6 +5,17 @@ AI Invoice Automation is a production-ready workflow built with n8n that automat
 
 This project is an AI-powered automation built using n8n.
 
+## Problem Statement
+Manual invoice processing is time-consuming, error-prone, and inefficient for billing teams. Tracking invoices, extracting data, updating records, and sending notifications often requires repetitive manual effort.
+
+## Solution
+This n8n-powered AI automation:
+- Detects new invoice PDFs uploaded to Google Drive
+- Extracts structured invoice data using an AI Agent
+- Stores invoice details in Google Sheets
+- Generates professional billing emails using LLMs
+- Sends automated notifications to the billing team
+
 ## What it does
 - Detects invoice PDFs from Google Drive
 - Extracts invoice data using an AI Agent
