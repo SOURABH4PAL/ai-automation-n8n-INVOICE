@@ -46,5 +46,10 @@ Real-world finance & billing automation for startups and enterprises.
 ## Email Notification
 ![Email Notification](screenshots/Email-billing.png)
 
+## 🎥 Demo Video
+Watch a 2-minute end-to-end walkthrough of the AI Invoice Automation workflow:  
+👉 https://www.loom.com/share/a198a0431aa644869a75305caebd1280
+
+
 
 
