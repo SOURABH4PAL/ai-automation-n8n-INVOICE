@@ -26,3 +26,14 @@ This project is an AI-powered automation built using n8n.
 ## Use case
 Real-world finance & billing automation for startups and enterprises.
 
+## Workflow Overview
+![Workflow Overview](screenshots/workflow-overview.png)
+
+## Google Sheet Update
+![Google Sheet Update](screenshots/Googlesheet-update.png)
+
+## Email Notification
+![Email Notification](screenshots/Email-billing.png)
+
+
+
